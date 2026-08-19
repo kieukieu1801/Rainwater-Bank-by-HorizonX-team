@@ -1,6 +1,6 @@
 # Rainwater-Bank-by-HorizonX-team
-Đây là sản phẩm dự thi cuộc thi Beyond Borders Business Case Competition 2026 của nhóm HorizonX gồm Lê Kiều Linh, Nguyễn Thị Thùy Tiên, Đào Hoàng Phong và Nguyễn Thùy Dương.
-This is the submission for the Beyond Borders Business Case Competition 2026, created by the HorizonX team, consisting of Lê Kiều Linh, Nguyễn Thị Thùy Tiên, Đào Hoàng Phong, and Nguyễn Thùy Dương.
+> **Đây là sản phẩm dự thi cuộc thi Beyond Borders Business Case Competition 2026 của nhóm HorizonX gồm Lê Kiều Linh, Nguyễn Thị Thùy Tiên, Đào Hoàng Phong và Nguyễn Thùy Dương.**  
+> *This is the submission for the Beyond Borders Business Case Competition 2026, created by the HorizonX team, consisting of Lê Kiều Linh, Nguyễn Thị Thùy Tiên, Đào Hoàng Phong, and Nguyễn Thùy Dương.*
 # RainBank: Shared Urban Rainbank
 > **Turning Rain into a Shared Urban Asset in Southeast Asia**  
 > *One system. Two urban challenges solved.*
