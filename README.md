@@ -10,7 +10,7 @@ Southeast Asia is facing a unique paradox: **it is one of the rainiest regions i
 * **60 – 100 billion m³** of rainwater per year in the Mekong Delta is lost to drainage systems instead of being captured and stored[cite: 1].
 **RainBank** bridges this gap by introducing a community-based, tech-driven circular water management model that tackles both **urban flooding** and **groundwater depletion** simultaneously[cite: 1].
 ---
-## 💡 Key Features & Pillars
+##  Key Features & Pillars
 1. **Shared Collection Network**[cite: 1]
    * 10–15 households share a centralized collection system, significantly lowering installation costs and increasing community access[cite: 1].
 2. **Smart Technology & Allocation**[cite: 1]
@@ -39,16 +39,16 @@ Southeast Asia is facing a unique paradox: **it is one of the rainiest regions i
 * Government subsidies & urban resilience funding[cite: 1]
 * CSR (Corporate Social Responsibility) partnerships[cite: 1]
 ---
-##  Implementation Roadmap
-```text
+## Implementation Roadmap
 [Phase 1] Pilot in Ho Chi Minh City (HCMC)
-   └─► [Phase 2] Strategic Partnerships with Local Gov & NGOs
+    └─► [Phase 2] Strategic Partnerships with Local Gov & NGOs
           └─► [Phase 3] Deploy IoT Infrastructure & User Mobile App
-                 └─► [Phase 4] Scale to Da Nang, Can Tho & Regional Southeast Asia
-```[cite: 1]
+                └─► [Phase 4] Scale to Da Nang, Can Tho & Regional Southeast Asia
+
 ---
-## 📚 References & Sources
-1. **World Bank (2022, 2024)** — Rainfall patterns & Mekong Delta water loss statistics[cite: 1].
-2. **Erban et al. (2014)** — Groundwater extraction and land subsidence studies[cite: 1].
-3. **UN WWDR (2022)** — United Nations World Water Development Report[cite: 1].
-4. **IJESD (2018)** — International Journal of Environmental Science and Development[cite: 1].
+## References & Sources
+
+1. **World Bank (2022, 2024)** — Rainfall patterns & Mekong Delta water loss statistics.
+2. **Erban et al. (2014)** — Groundwater extraction and land subsidence studies.
+3. **UN WWDR (2022)** — United Nations World Water Development Report.
+4. **IJESD (2018)** — International Journal of Environmental Science and Development.
