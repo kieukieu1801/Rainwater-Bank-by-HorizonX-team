@@ -5,39 +5,39 @@
 > *One system. Two urban challenges solved.*
 ---
 ## Executive Summary
-Southeast Asia is facing a unique paradox: **it is one of the rainiest regions in the world, yet it is running out of water**[cite: 1]. 
-* **1,500 – 2,500 mm** annual rainfall, but major cities like Ho Chi Minh City, Bangkok, and Jakarta suffer from chronic water shortages[cite: 1].
-* **60 – 100 billion m³** of rainwater per year in the Mekong Delta is lost to drainage systems instead of being captured and stored[cite: 1].
-**RainBank** bridges this gap by introducing a community-based, tech-driven circular water management model that tackles both **urban flooding** and **groundwater depletion** simultaneously[cite: 1].
+Southeast Asia is facing a unique paradox: **it is one of the rainiest regions in the world, yet it is running out of water**. 
+* **1,500 – 2,500 mm** annual rainfall, but major cities like Ho Chi Minh City, Bangkok, and Jakarta suffer from chronic water shortages.
+* **60 – 100 billion m³** of rainwater per year in the Mekong Delta is lost to drainage systems instead of being captured and stored.
+**RainBank** bridges this gap by introducing a community-based, tech-driven circular water management model that tackles both **urban flooding** and **groundwater depletion** simultaneously.
 ---
 ##  Key Features & Pillars
-1. **Shared Collection Network**[cite: 1]
-   * 10–15 households share a centralized collection system, significantly lowering installation costs and increasing community access[cite: 1].
-2. **Smart Technology & Allocation**[cite: 1]
-   * Integrated IoT sensors and AI to optimize rainwater storage, monitor water quality in real time, and automate allocation[cite: 1].
-3. **Water Credit System**[cite: 1]
-   * Residents earn credits based on their rainwater contributions, which can be redeemed for water supply or bill discounts[cite: 1].
-4. **Circular Marketplace**[cite: 1]
-   * Surplus stored water is monetized and sold to local businesses, generating sustainable revenue for system maintenance[cite: 1].
-5. **Dual Impact Model**[cite: 1]
-   * Mitigates urban surface flooding while reducing reliance on depleting groundwater sources[cite: 1].
+1. **Shared Collection Network**
+   * 10–15 households share a centralized collection system, significantly lowering installation costs and increasing community access.
+2. **Smart Technology & Allocation**
+   * Integrated IoT sensors and AI to optimize rainwater storage, monitor water quality in real time, and automate allocation.
+3. **Water Credit System**
+   * Residents earn credits based on their rainwater contributions, which can be redeemed for water supply or bill discounts.
+4. **Circular Marketplace**
+   * Surplus stored water is monetized and sold to local businesses, generating sustainable revenue for system maintenance.
+5. **Dual Impact Model**
+   * Mitigates urban surface flooding while reducing reliance on depleting groundwater sources.
 ---
 ## Impact & Benefits
 | Category | Impact Details |
 | :--- | :--- |
-| **Environmental** | • Reduced groundwater extraction[cite: 1]<br>• Decreased risk of land subsidence[cite: 1]<br>• Lower urban flood risks during heavy rain seasons[cite: 1] |
-| **Economic** | • Lower monthly household water bills[cite: 1]<br>• Revenue creation through commercial water trading[cite: 1]<br>• Cost-effective decentralized infrastructure[cite: 1] |
-| **Social**| • Enhanced community resilience and water security[cite: 1]<br>• Fosters a localized circular water economy[cite: 1] |
+| **Environmental** | • Reduced groundwater extraction<br>• Decreased risk of land subsidence<br>• Lower urban flood risks during heavy rain seasons |
+| **Economic** | • Lower monthly household water bills<br>• Revenue creation through commercial water trading[cite: 1]<br>• Cost-effective decentralized infrastructure |
+| **Social**| • Enhanced community resilience and water security<br>• Fosters a localized circular water economy |
 ---
 ##  Target Users & Business Model
 ### **Target Stakeholders**
-* **Primary:** Households, Schools & Hotels, Industrial Factories[cite: 1].
-* **Institutional:** Local Governments & Municipalities[cite: 1].
+* **Primary:** Households, Schools & Hotels, Industrial Factories.
+* **Institutional:** Local Governments & Municipalities.
 ### **Revenue Streams**
-* Installation & maintenance contributions[cite: 1]
-* Commercial water sales (B2B marketplace)[cite: 1]
-* Government subsidies & urban resilience funding[cite: 1]
-* CSR (Corporate Social Responsibility) partnerships[cite: 1]
+* Installation & maintenance contributions
+* Commercial water sales (B2B marketplace)
+* Government subsidies & urban resilience funding
+* CSR (Corporate Social Responsibility) partnerships
 ---
 ## Implementation Roadmap
 [Phase 1] Pilot in Ho Chi Minh City (HCMC)
